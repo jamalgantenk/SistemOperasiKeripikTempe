@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\{
     DashboardController,
-    KategoriController,
+   
     LaporanController,
     ProdukController,
     MemberController,
